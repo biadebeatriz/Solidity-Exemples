@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity ^0.8.7;
-//COLOCAR TIME LOCK BLOCK
+//COLOCAR TIME LOCK BLOCK2
 contract MultiSigWallet{
     event Deposit(address indexed sender, uint amount);
     event ConfirmTransaction(address indexed owner, uint indexed txIndex);
